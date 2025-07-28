@@ -14,7 +14,7 @@ const corsOptions = {
     'https://nevback.onrender.com',
     'http://localhost:3000',
     'http://localhost:5173',
-    'https://nevyra-frontend.vercel.app', // Add your deployed frontend URL if you have one
+    'https://nevfront.onrender.com', // Add your deployed frontend URL if you have one
     'https://nevyra.vercel.app', // Add your deployed frontend URL if you have one
   ],
   credentials: true,
