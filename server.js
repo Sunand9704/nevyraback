@@ -10,7 +10,6 @@ const app = express();
 
 // Configure CORS to allow requests from frontend
 const corsOptions = {
-  const corsOptions = {
   origin: [
     'http://localhost:8080', // Your frontend development server
     'http://localhost:3000',
